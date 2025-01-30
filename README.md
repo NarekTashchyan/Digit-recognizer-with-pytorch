@@ -4,7 +4,7 @@
 This project implements a Convolutional Neural Network (CNN) using PyTorch for the classification of handwritten digits from the MNIST dataset. The model is trained and tested using a simple training loop, and the predictions are visualized on a sample test image.
 
 ## Project Structure
-- `mnist_cnn.py`: The main script containing the CNN model, training, testing functions, and visualization of predictions.
+- `digit-recognizer/Digit recognizer.ipynb`: The main script containing the CNN model, training, testing functions, and visualization of predictions.
 - `data/`: Directory to store the MNIST dataset (automatically downloaded).
 - `README.md`: This readme file providing an overview of the project.
 
